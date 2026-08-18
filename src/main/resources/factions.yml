@@ -1,9 +1,0 @@
-autobots:
-  loreLayer: TRANSFORMERS
-  type: CANON
-decepticons:
-  loreLayer: TRANSFORMERS
-  type: CANON
-verticons:
-  loreLayer: NEXUS
-  type: CUSTOM
