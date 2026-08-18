@@ -1,0 +1,4 @@
+abilities:
+  dash: {display-name: Cyber Rush, cooldown-seconds: 8, energon-cost: 10}
+  shield: {display-name: Energon Shield, cooldown-seconds: 15, energon-cost: 20}
+  transformation: {display-name: Transform, cooldown-seconds: 5, energon-cost: 0}

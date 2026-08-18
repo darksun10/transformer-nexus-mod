@@ -1,0 +1,16 @@
+name: NexusUniverseTransformers
+version: '${version}'
+main: com.nexusuniverse.plugin.NexusUniversePlugin
+api-version: '1.21'
+author: Nexus Universe
+description: Transformers and Nexus Universe framework with Kairos and Verticons.
+commands:
+  kairos: {description: Kairos system, usage: /kairos [status|message], permission: nexus.kairos}
+  transformer: {description: Transformer character system, usage: /transformer <create|info|transform>, permission: nexus.transformer}
+  faction: {description: Faction system, usage: /faction list, permission: nexus.faction}
+  verticon: {description: Verticon system, usage: /verticon <create|list|info>, permission: nexus.verticon}
+permissions:
+  nexus.kairos: {default: op}
+  nexus.transformer: {default: op}
+  nexus.faction: {default: op}
+  nexus.verticon: {default: op}

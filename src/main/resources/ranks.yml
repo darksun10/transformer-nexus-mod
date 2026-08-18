@@ -1,0 +1,3 @@
+autobots: [Civilian, Soldier, Scout, Officer, Commander, Prime]
+decepticons: [Civilian, Soldier, Seeker, Officer, Commander, Leader]
+verticons: [Recruit, Warrior, Specialist, Commander, High Commander, Leader]
