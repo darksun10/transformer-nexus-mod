@@ -1,0 +1,13 @@
+kairos:
+  enabled: true
+  display-name: Kairos
+  default-message: The Nexus is under observation.
+characters:
+  default-faction: VERTICONS
+  default-lore-layer: NEXUS
+transformation:
+  cooldown-seconds: 5
+  enabled: true
+energon:
+  default-max: 100
+  regeneration-per-second: 1

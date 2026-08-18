@@ -1,0 +1,12 @@
+transformers:
+  layer: TRANSFORMERS
+  concepts: [Cybertron, Cybertronian, Autobot, Decepticon, Prime, Energon]
+nexus:
+  layer: NEXUS
+  entities:
+    kairos:
+      type: overseer
+      description: The hidden overseer of the Nexus Universe.
+    verticons:
+      type: faction
+      description: A custom Cybertronian faction created for Nexus Universe.
